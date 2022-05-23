@@ -71,7 +71,7 @@ public class App {
 	// methods
 	static void startSimsGame() {
 
-		System.out.println("Welcome to U-Sims! /nLet's begin by creating your first U-SIM:/n");
+		System.out.println("Welcome to U-Sims! \nLet's begin by creating your first U-SIM:");
 		
 		// invoke a person creator method possibly
 		Person sim1;
